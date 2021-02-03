@@ -1,0 +1,3 @@
+C:/Users/vmsai/CLionProjects/BackTracingAlgo_2160A02/cmake-build-debug/CMakeFiles/2160A02.dir
+C:/Users/vmsai/CLionProjects/BackTracingAlgo_2160A02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmsai/CLionProjects/BackTracingAlgo_2160A02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
