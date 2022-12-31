@@ -237,7 +237,11 @@ void checkState()
 void loadMaze()
 {
     FILE *f;
-    f = fopen("C:\\Users\\vmsai\\CLionProjects\\BackTracingAlgo_2160A02\\maze2.txt", "r");
+    char fileName[100];
+    
+    printf("Enter Maze Filename: \n");
+    fscanf(stdin, "%s", fileName);
+    f = fopen(fileName, "r");
     char oneLine[MAX_DIMENSION];
     char row, col;
     fscanf(f, "%s", &row);
