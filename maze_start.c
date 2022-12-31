@@ -1,10 +1,8 @@
 
 //-----------------------------------------/
 // NAME: Saif Mahmud
-// STUDENT NUMBER: 7808507
-// COURSE: COMP 2160, SECTION: A01
-// ASSIGNMENT: assignment 02,
 // VERSION: 02/23/2020
+// Purpose: Implementing backtracking algorithm to solve a maze.
 //-----------------------------------------/
 
 #include <stdio.h>
