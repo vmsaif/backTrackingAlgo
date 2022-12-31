@@ -48,7 +48,7 @@ To run this program, follow these steps:
 
 Compile the program using a C compiler, such as clang.
     
-    clang -o maze maze.c
+    clang -o maze_start maze_start.c
 
 Run the program and provide the maze input through standard input.
 
