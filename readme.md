@@ -1,4 +1,7 @@
 # Maze Solver
+
+[![Hits](https://hits.sh/github.com/vmsaif/backTrackingAlgo.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/backTrackingAlgo/)
+
 This program is designed to solve a maze using a backtracking algorithm. The program will take a maze as input and determine if a mouse can escape from it by systematically trying all the routes through the maze until it either finds the escape hatch or exhausts all possible routes (and concludes that the mouse is trapped in the maze). If the backtracking algorithm finds a dead end, it retraces its path until it reaches a position from which there is an untried path. The backtracking algorithm always tries all directions from any position, and always in the same order.
 
 ## Input
